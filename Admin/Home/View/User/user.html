@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <style>
+    table tr td{font-size: 13px;width:200px;text-align: center;}
+    a:link,a:visited{color:#031bc1;}
+    </style>
+	</head>
+	<body>
+    <table>
+        <th>账号</th>
+        <th>同户名</th>
+        <th>联系方式</th>
+        <th>联系地址</th>
+        <volist name="list" id="vo">
+    	<tr>
+            <td><{$vo.user_account}></td>
+            <td><{$vo.user_nickname}></td>
+            <td><{$vo.user_phone}></td>
+            <td><{$vo.user_address}></td>
+            <td><a href='__ROOT__/admin.php/Home/User/delete/user_account/<{$vo.user_account}>'>删除</a></td>
+        <tr>
+        </volist>
+        <{$page}>
+    <table>
+</body>
+</html>

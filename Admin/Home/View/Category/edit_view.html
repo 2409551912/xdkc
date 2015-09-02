@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+  table{margin: 0 auto;margin-top: 80px;}
+    tr td{
+      font-size: 16px;
+      width:240px;
+      text-align: center;
+      line-height:60px;
+       }
+       .sub{text-align: left;}
+  </style>
+  </head>
+  <body>
+    <form action="__ROOT__/admin.php/Home/Category/edit" method="post">
+    <table>
+      <volist name="data" id="vo">
+      <tr>
+        <td>类别序号：<input type="text" name="category_id" value="<{$vo.category_id}>"></td>
+      </tr>
+      <tr>
+        <td>类别名称：<input type="text" name="category_name" value="<{$vo.category_name}>"></td>
+      </tr>
+      <tr><td class="sub">&nbsp;<input type="submit" value="修改"></td></tr>
+    </volist>
+    </table>
+  </form>
+</body>
+</html>

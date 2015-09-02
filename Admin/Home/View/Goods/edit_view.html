@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+  table{margin: 0 auto;margin-top: 80px;}
+  tr td{font-size: 16px;line-height: 60px;}
+  </style>
+  </head>
+  <body>
+    <volist name="data" id="vo">
+
+      <form action='__ROOT__/admin.php/Home/Goods/edit/goods_id/<{$vo.goods_id}>' method='post'>
+      <table>
+        <tr>
+          <td>商品编号：</td>
+          <td><input type='text' value='<{$vo.goods_id}>' name='goods_id'></td>
+        </tr>
+        <tr>
+          <td>商品名称：</td>
+          <td><input type='text' value='<{$vo.goods_name}>' name='goods_name'></td>
+        </tr>
+        <tr>
+          <td>商品价格：</td>
+          <td><input type='text' value='<{$vo.goods_price}>' name='goods_price'></td>
+        </tr>
+        <tr>
+          <td><input type='submit' value='修改'></td>
+          <td>&nbsp;</td>
+        </tr>
+        </table>
+      </form>
+      </volist>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <style>
+    table{text-align: center;font-size: 14px;}
+        td{width:150px;}
+        td.first{width: 10px;}
+    </style>
+	</head>
+	<body>
+    <p>所属类：<{$category_name}></p>
+    <table>
+        <tr>
+            <td>商品号</td><td>商品名</td><td>价格</td>
+        </tr>
+    <volist name = "data" id = "vo">
+        <tr>
+            <td class="first"><{$vo.goods_id}></td>
+            <td><{$vo.goods_name}></td>
+            <td><{$vo.goods_price}></td>
+        <tr>
+    </volist>
+    </table>
+</body>
+</html>

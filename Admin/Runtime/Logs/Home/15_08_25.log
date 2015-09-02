@@ -1,0 +1,5 @@
+[ 2015-08-25T17:55:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009384s ]
+

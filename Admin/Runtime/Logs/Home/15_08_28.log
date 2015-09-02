@@ -1,0 +1,3717 @@
+[ 2015-08-28T10:59:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-08-28T10:59:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2015-08-28T10:59:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2015-08-28T10:59:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2015-08-28T10:59:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-08-28T11:00:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2015-08-28T11:00:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2015-08-28T11:00:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+
+[ 2015-08-28T11:01:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-08-28T11:01:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-08-28T11:01:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-08-28T11:02:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-28T11:02:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2015-08-28T11:02:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+
+[ 2015-08-28T11:03:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2015-08-28T11:03:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2015-08-28T11:03:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+
+[ 2015-08-28T11:03:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2015-08-28T11:03:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+
+[ 2015-08-28T11:03:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002663s ]
+
+[ 2015-08-28T11:03:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+
+[ 2015-08-28T11:03:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-08-28T11:04:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+
+[ 2015-08-28T11:05:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2015-08-28T11:05:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2015-08-28T11:05:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-08-28T11:05:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2015-08-28T11:05:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2015-08-28T11:05:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-08-28T11:05:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2015-08-28T11:05:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2015-08-28T11:06:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2015-08-28T11:06:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-08-28T11:06:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2015-08-28T11:06:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+
+[ 2015-08-28T11:06:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2015-08-28T11:07:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2015-08-28T11:07:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2015-08-28T11:07:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-08-28T11:07:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-08-28T11:11:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2015-08-28T11:11:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2015-08-28T11:11:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T11:11:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2015-08-28T11:11:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-28T11:12:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002316s ]
+
+[ 2015-08-28T11:12:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2015-08-28T11:12:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2015-08-28T11:13:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+
+[ 2015-08-28T11:13:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2015-08-28T11:13:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2015-08-28T11:13:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2015-08-28T11:14:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+
+[ 2015-08-28T11:14:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2015-08-28T11:15:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+
+[ 2015-08-28T11:15:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2015-08-28T11:15:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2015-08-28T11:15:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2015-08-28T11:16:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+
+[ 2015-08-28T11:16:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2015-08-28T11:16:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2015-08-28T11:17:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2015-08-28T11:17:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+
+[ 2015-08-28T11:17:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2015-08-28T11:21:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+
+[ 2015-08-28T11:21:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2015-08-28T11:21:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+
+[ 2015-08-28T11:22:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+
+[ 2015-08-28T11:22:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2015-08-28T11:22:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-08-28T11:25:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+
+[ 2015-08-28T11:25:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2015-08-28T11:25:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+
+[ 2015-08-28T11:25:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+
+[ 2015-08-28T11:25:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+
+[ 2015-08-28T11:25:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+
+[ 2015-08-28T11:25:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+
+[ 2015-08-28T11:26:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+
+[ 2015-08-28T11:27:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007334s ]
+
+[ 2015-08-28T11:27:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001413s ]
+
+[ 2015-08-28T11:27:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000471s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015820s ]
+
+[ 2015-08-28T11:27:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+
+[ 2015-08-28T11:27:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+
+[ 2015-08-28T11:28:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008668s ]
+
+[ 2015-08-28T11:28:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006452s ]
+
+[ 2015-08-28T11:28:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+
+[ 2015-08-28T11:28:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+
+[ 2015-08-28T11:28:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000303s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2015-08-28T11:28:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+
+[ 2015-08-28T11:32:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+
+[ 2015-08-28T11:32:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2015-08-28T11:32:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2015-08-28T11:32:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-08-28T11:32:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+
+[ 2015-08-28T11:32:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+
+[ 2015-08-28T11:32:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+
+[ 2015-08-28T11:33:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2015-08-28T11:33:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T11:34:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+
+[ 2015-08-28T11:34:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+
+[ 2015-08-28T11:34:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+
+[ 2015-08-28T11:34:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2015-08-28T11:34:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002284s ]
+
+[ 2015-08-28T11:35:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2015-08-28T11:35:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2015-08-28T11:35:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+
+[ 2015-08-28T11:35:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2015-08-28T11:35:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+
+[ 2015-08-28T11:35:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002718s ]
+
+[ 2015-08-28T11:35:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+
+[ 2015-08-28T11:35:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2015-08-28T11:35:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+
+[ 2015-08-28T11:35:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2015-08-28T11:35:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002209s ]
+
+[ 2015-08-28T11:36:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+
+[ 2015-08-28T11:36:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+
+[ 2015-08-28T11:36:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+
+[ 2015-08-28T11:36:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001493s ]
+
+[ 2015-08-28T11:37:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+
+[ 2015-08-28T11:37:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+
+[ 2015-08-28T11:37:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2015-08-28T11:37:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+
+[ 2015-08-28T11:38:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2015-08-28T11:38:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-08-28T11:38:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+
+[ 2015-08-28T11:38:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+
+[ 2015-08-28T11:39:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+
+[ 2015-08-28T11:41:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+
+[ 2015-08-28T11:41:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+
+[ 2015-08-28T11:43:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2015-08-28T11:43:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+
+[ 2015-08-28T11:43:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+
+[ 2015-08-28T11:43:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2015-08-28T11:43:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-08-28T11:44:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006820s ]
+
+[ 2015-08-28T11:44:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002679s ]
+
+[ 2015-08-28T11:44:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-08-28T11:46:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-08-28T11:46:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2015-08-28T11:46:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2015-08-28T11:46:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2015-08-28T11:46:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2015-08-28T11:46:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2015-08-28T11:46:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-08-28T11:46:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001595s ]
+
+[ 2015-08-28T11:47:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+
+[ 2015-08-28T11:52:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2015-08-28T11:52:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2015-08-28T11:53:36+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+
+[ 2015-08-28T11:53:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2015-08-28T11:53:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002543s ]
+
+[ 2015-08-28T11:53:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+
+[ 2015-08-28T11:53:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-08-28T11:53:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+
+[ 2015-08-28T11:54:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001556s ]
+
+[ 2015-08-28T11:54:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+
+[ 2015-08-28T11:54:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-08-28T11:56:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002020s ]
+
+[ 2015-08-28T11:56:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+
+[ 2015-08-28T11:56:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+
+[ 2015-08-28T11:56:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-08-28T11:56:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-08-28T11:56:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+
+[ 2015-08-28T11:56:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+
+[ 2015-08-28T11:58:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+
+[ 2015-08-28T11:58:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+
+[ 2015-08-28T11:58:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+
+[ 2015-08-28T11:58:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2015-08-28T11:58:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2015-08-28T11:58:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+
+[ 2015-08-28T11:58:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T11:59:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+
+[ 2015-08-28T11:59:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+
+[ 2015-08-28T11:59:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+
+[ 2015-08-28T11:59:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2015-08-28T11:59:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004021s ]
+
+[ 2015-08-28T11:59:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2015-08-28T11:59:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+
+[ 2015-08-28T11:59:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+
+[ 2015-08-28T12:00:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+
+[ 2015-08-28T12:00:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+
+[ 2015-08-28T12:00:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2015-08-28T12:00:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+
+[ 2015-08-28T12:00:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+
+[ 2015-08-28T12:00:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2015-08-28T12:00:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003560s ]
+
+[ 2015-08-28T12:00:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003751s ]
+
+[ 2015-08-28T12:00:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-08-28T12:00:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+
+[ 2015-08-28T12:00:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+
+[ 2015-08-28T12:00:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2015-08-28T12:01:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2015-08-28T12:01:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+
+[ 2015-08-28T12:01:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-08-28T12:01:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2015-08-28T12:01:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+
+[ 2015-08-28T12:01:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+
+[ 2015-08-28T12:01:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+
+[ 2015-08-28T12:02:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+[ 2015-08-28T12:02:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+
+[ 2015-08-28T12:02:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-08-28T12:02:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002106s ]
+
+[ 2015-08-28T12:11:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002165s ]
+
+[ 2015-08-28T12:11:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+
+[ 2015-08-28T12:11:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-08-28T12:11:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2015-08-28T12:11:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-08-28T12:12:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002874s ]
+
+[ 2015-08-28T12:12:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002300s ]
+
+[ 2015-08-28T12:12:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003373s ]
+
+[ 2015-08-28T12:12:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-08-28T12:12:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2015-08-28T12:12:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001562s ]
+
+[ 2015-08-28T12:31:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+
+[ 2015-08-28T12:31:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2015-08-28T12:31:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-08-28T12:31:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-08-28T12:31:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2015-08-28T12:31:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-08-28T12:31:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2015-08-28T12:31:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2015-08-28T12:32:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2015-08-28T12:32:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002441s ]
+
+[ 2015-08-28T12:32:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+
+[ 2015-08-28T12:32:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+
+[ 2015-08-28T12:32:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+
+[ 2015-08-28T12:32:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2015-08-28T12:32:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004839s ]
+
+[ 2015-08-28T12:32:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2015-08-28T12:32:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2015-08-28T12:32:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2015-08-28T12:32:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002928s ]
+
+[ 2015-08-28T12:32:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-28T12:32:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2015-08-28T12:32:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2015-08-28T12:32:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2015-08-28T12:32:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2015-08-28T12:33:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+
+[ 2015-08-28T12:33:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-08-28T12:35:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2015-08-28T12:35:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2015-08-28T12:35:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-08-28T12:35:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2015-08-28T12:35:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2015-08-28T12:35:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-28T12:36:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2015-08-28T12:36:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2015-08-28T12:36:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2015-08-28T12:36:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2015-08-28T12:40:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-28T12:40:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2015-08-28T12:40:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+
+[ 2015-08-28T12:40:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-08-28T12:40:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T12:40:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+
+[ 2015-08-28T12:40:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2015-08-28T12:40:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+
+[ 2015-08-28T12:40:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2015-08-28T12:40:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003264s ]
+
+[ 2015-08-28T12:41:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-28T12:41:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003562s ]
+
+[ 2015-08-28T12:41:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+
+[ 2015-08-28T12:41:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+
+[ 2015-08-28T12:41:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2015-08-28T12:42:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+
+[ 2015-08-28T12:42:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2015-08-28T12:42:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2015-08-28T12:42:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006757s ]
+
+[ 2015-08-28T12:42:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+
+[ 2015-08-28T12:42:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-08-28T12:42:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005094s ]
+
+[ 2015-08-28T12:42:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+[ 2015-08-28T12:42:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2015-08-28T12:45:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2015-08-28T12:45:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2015-08-28T12:46:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2015-08-28T12:46:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002812s ]
+
+[ 2015-08-28T12:46:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2015-08-28T12:46:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2015-08-28T12:46:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-08-28T12:46:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+
+[ 2015-08-28T12:46:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2015-08-28T12:46:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2015-08-28T12:46:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-08-28T12:46:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2015-08-28T12:46:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-08-28T12:46:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001750s ]
+
+[ 2015-08-28T12:46:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+
+[ 2015-08-28T12:46:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-08-28T12:46:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003607s ]
+
+[ 2015-08-28T12:46:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-08-28T12:47:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2015-08-28T12:47:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-08-28T12:47:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+
+[ 2015-08-28T12:47:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2015-08-28T12:47:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2015-08-28T12:47:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-08-28T12:47:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2015-08-28T12:47:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+
+[ 2015-08-28T12:49:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2015-08-28T12:49:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-08-28T12:50:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2015-08-28T12:50:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2015-08-28T12:50:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2015-08-28T12:50:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2015-08-28T12:50:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2015-08-28T12:50:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-28T12:51:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+
+[ 2015-08-28T12:51:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-08-28T12:51:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-08-28T12:53:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+
+[ 2015-08-28T12:53:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+
+[ 2015-08-28T12:53:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+
+[ 2015-08-28T12:53:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2015-08-28T12:53:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+
+[ 2015-08-28T12:53:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2015-08-28T12:53:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-08-28T12:53:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+
+[ 2015-08-28T12:53:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+
+[ 2015-08-28T12:53:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-28T12:53:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-28T12:53:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2015-08-28T12:54:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+
+[ 2015-08-28T12:54:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+
+[ 2015-08-28T12:54:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-08-28T12:54:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2015-08-28T12:54:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+
+[ 2015-08-28T12:54:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+
+[ 2015-08-28T12:54:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002828s ]
+
+[ 2015-08-28T12:54:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2015-08-28T12:54:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-08-28T12:54:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+
+[ 2015-08-28T12:54:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-08-28T12:54:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+
+[ 2015-08-28T12:54:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-08-28T12:54:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/delete/category_id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2015-08-28T12:54:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2015-08-28T12:55:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2015-08-28T12:55:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2015-08-28T12:55:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-08-28T12:55:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+
+[ 2015-08-28T12:55:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2015-08-28T12:55:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+
+[ 2015-08-28T12:55:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-08-28T12:55:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2015-08-28T12:55:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2015-08-28T12:55:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2015-08-28T12:56:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009252s ]
+
+[ 2015-08-28T12:56:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+
+[ 2015-08-28T12:56:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2015-08-28T12:56:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2015-08-28T12:56:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-08-28T12:56:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-08-28T12:56:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+
+[ 2015-08-28T12:57:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2015-08-28T12:57:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2015-08-28T12:57:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2015-08-28T12:57:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003084s ]
+
+[ 2015-08-28T12:57:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-08-28T12:57:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+
+[ 2015-08-28T12:57:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-28T12:57:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/edit_view/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001705s ]
+
+[ 2015-08-28T12:57:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2015-08-28T12:57:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002929s ]
+
+[ 2015-08-28T12:57:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-08-28T12:57:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+
+[ 2015-08-28T12:57:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+
+[ 2015-08-28T12:57:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+
+[ 2015-08-28T12:58:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2015-08-28T12:58:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2015-08-28T12:58:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2015-08-28T12:58:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2015-08-28T13:02:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+
+[ 2015-08-28T13:02:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+
+[ 2015-08-28T13:02:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2015-08-28T13:02:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+
+[ 2015-08-28T13:02:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2015-08-28T13:02:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-08-28T13:02:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-08-28T13:02:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+
+[ 2015-08-28T13:02:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003182s ]
+
+[ 2015-08-28T13:02:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+
+[ 2015-08-28T13:02:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2015-08-28T13:02:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2015-08-28T13:03:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2015-08-28T13:03:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2015-08-28T13:03:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-08-28T13:03:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004695s ]
+
+[ 2015-08-28T13:03:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2015-08-28T13:03:35+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-28T13:03:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-08-28T13:03:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-08-28T13:03:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+
+[ 2015-08-28T13:03:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T13:03:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2015-08-28T13:03:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-08-28T13:03:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-08-28T13:03:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2015-08-28T13:03:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-08-28T13:04:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+
+[ 2015-08-28T13:04:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2015-08-28T13:04:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2015-08-28T13:04:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003461s ]
+
+[ 2015-08-28T13:04:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2015-08-28T13:04:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-08-28T13:04:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2015-08-28T13:04:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+
+[ 2015-08-28T13:12:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2015-08-28T13:12:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+
+[ 2015-08-28T13:12:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-08-28T13:12:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T13:12:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-08-28T13:12:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+
+[ 2015-08-28T13:12:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-28T13:12:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2015-08-28T13:13:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2015-08-28T13:13:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2015-08-28T13:13:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2015-08-28T13:13:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-08-28T13:13:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-28T13:13:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2015-08-28T13:13:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+
+[ 2015-08-28T13:13:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2015-08-28T13:13:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2015-08-28T13:13:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2015-08-28T13:13:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2015-08-28T13:13:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+
+[ 2015-08-28T13:13:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2015-08-28T13:13:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2015-08-28T13:13:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-28T13:13:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2015-08-28T13:13:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-08-28T13:13:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2015-08-28T13:13:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+
+[ 2015-08-28T13:13:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2015-08-28T13:13:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004562s ]
+
+[ 2015-08-28T13:13:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-08-28T13:14:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+
+[ 2015-08-28T13:14:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2015-08-28T13:14:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+
+[ 2015-08-28T13:14:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+
+[ 2015-08-28T13:14:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008936s ]
+
+[ 2015-08-28T13:14:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-08-28T13:14:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+
+[ 2015-08-28T13:14:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2015-08-28T13:14:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+
+[ 2015-08-28T13:15:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2015-08-28T13:15:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T13:15:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+
+[ 2015-08-28T13:15:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-08-28T13:19:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+
+[ 2015-08-28T13:19:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-28T13:19:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2015-08-28T13:19:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2015-08-28T13:19:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-28T13:19:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+
+[ 2015-08-28T13:19:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+
+[ 2015-08-28T13:19:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2015-08-28T13:20:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001671s ]
+
+[ 2015-08-28T13:20:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+
+[ 2015-08-28T13:20:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+
+[ 2015-08-28T13:20:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+
+[ 2015-08-28T13:20:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2015-08-28T13:20:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+
+[ 2015-08-28T13:20:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2015-08-28T13:20:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004888s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006267s ]
+
+[ 2015-08-28T13:20:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+
+[ 2015-08-28T13:20:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-08-28T13:20:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+
+[ 2015-08-28T13:20:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002052s ]
+
+[ 2015-08-28T13:21:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001485s ]
+
+[ 2015-08-28T13:21:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+
+[ 2015-08-28T13:21:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+
+[ 2015-08-28T13:21:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+
+[ 2015-08-28T13:21:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2015-08-28T13:21:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-08-28T13:21:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2015-08-28T13:21:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2015-08-28T13:21:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+
+[ 2015-08-28T13:21:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-08-28T13:21:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-28T13:22:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-08-28T13:22:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+
+[ 2015-08-28T13:22:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2015-08-28T13:22:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2015-08-28T13:22:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2015-08-28T13:22:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+
+[ 2015-08-28T13:23:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+
+[ 2015-08-28T13:23:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2015-08-28T13:23:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2015-08-28T13:23:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+
+[ 2015-08-28T13:23:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-08-28T13:23:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2015-08-28T13:24:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2015-08-28T13:24:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2015-08-28T13:24:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+
+[ 2015-08-28T13:24:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-28T13:24:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2015-08-28T13:24:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+
+[ 2015-08-28T13:24:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-28T13:24:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2015-08-28T13:24:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+
+[ 2015-08-28T13:24:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2015-08-28T13:24:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+
+[ 2015-08-28T13:24:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+
+[ 2015-08-28T13:25:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T13:25:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+
+[ 2015-08-28T13:25:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+
+[ 2015-08-28T13:25:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2015-08-28T13:25:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2015-08-28T13:25:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2015-08-28T13:25:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-08-28T13:25:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+
+[ 2015-08-28T13:25:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2015-08-28T13:25:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-08-28T13:25:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2015-08-28T13:25:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+
+[ 2015-08-28T13:25:37+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-08-28T13:25:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-08-28T13:25:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2015-08-28T13:25:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2015-08-28T13:25:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2015-08-28T13:26:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+
+[ 2015-08-28T13:26:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2015-08-28T13:26:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2015-08-28T13:26:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+
+[ 2015-08-28T13:26:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2015-08-28T13:26:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T13:26:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-28T13:26:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2015-08-28T13:26:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2015-08-28T13:26:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2015-08-28T13:26:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/edit_view/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2015-08-28T13:26:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-08-28T13:26:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2015-08-28T13:26:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2015-08-28T13:26:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-28T13:26:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2015-08-28T13:26:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2015-08-28T13:26:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-08-28T13:26:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2015-08-28T13:56:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+
+[ 2015-08-28T13:56:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+
+[ 2015-08-28T13:56:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001513s ]
+
+[ 2015-08-28T13:56:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2015-08-28T13:56:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002545s ]
+
+[ 2015-08-28T13:56:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2015-08-28T13:56:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+
+[ 2015-08-28T13:56:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-08-28T13:56:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-28T13:56:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+
+[ 2015-08-28T13:57:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2015-08-28T13:57:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-08-28T13:57:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003273s ]
+
+[ 2015-08-28T13:57:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-08-28T13:57:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2015-08-28T13:57:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+
+[ 2015-08-28T13:58:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+
+[ 2015-08-28T13:58:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2015-08-28T13:58:36+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-08-28T13:58:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2015-08-28T13:58:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T13:58:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2015-08-28T13:58:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-08-28T13:58:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+
+[ 2015-08-28T13:59:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2015-08-28T13:59:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/consult/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+
+[ 2015-08-28T13:59:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/edit_view/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-08-28T13:59:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2015-08-28T13:59:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-08-28T13:59:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-08-28T13:59:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2015-08-28T13:59:32+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2015-08-28T13:59:33+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-08-28T13:59:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2015-08-28T13:59:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2015-08-28T13:59:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+
+[ 2015-08-28T13:59:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-08-28T14:00:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-08-28T14:00:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-08-28T14:00:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+
+[ 2015-08-28T14:01:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2015-08-28T14:01:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+
+[ 2015-08-28T14:01:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+
+[ 2015-08-28T14:01:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2015-08-28T14:01:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+
+[ 2015-08-28T14:01:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002505s ]
+
+[ 2015-08-28T14:01:58+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2015-08-28T14:01:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+
+[ 2015-08-28T14:02:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2015-08-28T14:02:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/edit_view/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-08-28T14:02:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2015-08-28T14:02:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/edit_view/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-08-28T14:02:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2015-08-28T14:02:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2015-08-28T14:02:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+
+[ 2015-08-28T14:02:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+
+[ 2015-08-28T14:02:29+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2015-08-28T14:05:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+
+[ 2015-08-28T14:05:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+
+[ 2015-08-28T14:05:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005282s ]
+
+[ 2015-08-28T14:05:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2015-08-28T14:05:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+
+[ 2015-08-28T14:05:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-08-28T14:05:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-08-28T14:05:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2015-08-28T14:05:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2015-08-28T14:05:38+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2015-08-28T14:05:39+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-08-28T14:05:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+
+[ 2015-08-28T14:05:40+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+
+[ 2015-08-28T14:05:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+
+[ 2015-08-28T14:05:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2015-08-28T14:05:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+
+[ 2015-08-28T14:05:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2015-08-28T14:05:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+
+[ 2015-08-28T14:05:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-08-28T14:05:45+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+[ 2015-08-28T14:06:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+
+[ 2015-08-28T14:06:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2015-08-28T14:06:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2015-08-28T14:06:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+
+[ 2015-08-28T14:09:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+
+[ 2015-08-28T14:09:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+
+[ 2015-08-28T14:09:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-08-28T14:09:17+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-08-28T14:11:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+
+[ 2015-08-28T14:12:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-08-28T14:12:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2015-08-28T14:12:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-08-28T14:12:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2015-08-28T14:12:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-08-28T14:12:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2015-08-28T14:12:18+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2015-08-28T14:12:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-08-28T14:12:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-08-28T14:12:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+
+[ 2015-08-28T14:12:25+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-08-28T14:12:28+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/edit_view/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2015-08-28T14:12:30+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-08-28T14:12:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-08-28T14:13:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2015-08-28T14:13:41+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2015-08-28T14:13:44+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2015-08-28T14:13:46+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+
+[ 2015-08-28T14:13:47+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2015-08-28T14:13:48+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2015-08-28T14:13:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+
+[ 2015-08-28T14:13:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-28T14:14:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2015-08-28T14:14:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-08-28T14:14:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2015-08-28T14:14:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+
+[ 2015-08-28T14:14:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2015-08-28T14:15:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-08-28T14:15:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-08-28T14:15:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2015-08-28T14:15:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-08-28T14:16:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+
+[ 2015-08-28T14:16:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+
+[ 2015-08-28T14:16:06+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+
+[ 2015-08-28T14:16:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+
+[ 2015-08-28T14:16:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2015-08-28T14:16:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2015-08-28T14:16:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-08-28T14:16:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2015-08-28T14:19:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2015-08-28T14:19:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-08-28T14:19:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2015-08-28T14:19:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2015-08-28T14:19:34+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003593s ]
+
+[ 2015-08-28T14:19:36+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2015-08-28T14:20:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-08-28T14:20:20+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001842s ]
+
+[ 2015-08-28T14:20:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2015-08-28T14:20:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-28T14:20:51+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+
+[ 2015-08-28T14:20:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+
+[ 2015-08-28T14:20:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-08-28T14:20:56+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2015-08-28T14:20:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2015-08-28T14:21:00+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+
+[ 2015-08-28T14:21:01+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-08-28T14:21:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-08-28T14:21:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2015-08-28T14:21:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2015-08-28T14:21:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2015-08-28T14:21:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-08-28T14:21:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2015-08-28T14:21:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/consult/category_id/?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2015-08-28T14:21:11+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2015-08-28T14:21:15+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2015-08-28T14:21:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2015-08-28T14:21:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2015-08-28T14:21:23+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-08-28T14:21:24+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2015-08-28T14:21:26+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2015-08-28T14:21:27+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-08-28T14:25:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+
+[ 2015-08-28T14:25:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2015-08-28T14:25:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2015-08-28T14:29:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+
+[ 2015-08-28T14:29:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
+[ 2015-08-28T14:29:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+
+[ 2015-08-28T14:30:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+
+[ 2015-08-28T14:30:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2015-08-28T14:30:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-08-28T14:30:03+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006801s ]
+
+[ 2015-08-28T14:33:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2015-08-28T14:33:19+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2015-08-28T14:33:21+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: XML标签语法错误 : name="data1" id="vo0" id="sec"
+
+[ 2015-08-28T14:33:22+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+ERR: XML标签语法错误 : name="data1" id="vo0" id="sec"
+
+[ 2015-08-28T14:33:42+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+
+[ 2015-08-28T14:33:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+
+[ 2015-08-28T14:33:43+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2015-08-28T18:26:07+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2015-08-28T18:26:08+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-08-28T18:26:09+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-28T18:26:10+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-08-28T18:26:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2015-08-28T18:26:16+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-08-28T18:26:53+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-08-28T18:26:54+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+
+[ 2015-08-28T18:26:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+
+[ 2015-08-28T18:26:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-08-28T18:27:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-08-28T18:27:12+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2015-08-28T18:27:13+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-28T18:27:14+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-08-28T18:27:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-08-28T18:27:31+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2015-08-28T18:27:49+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2015-08-28T18:27:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2015-08-28T18:27:50+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+
+[ 2015-08-28T18:27:52+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2015-08-28T18:27:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2015-08-28T18:27:55+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2015-08-28T18:27:57+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Category/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2015-08-28T18:27:59+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+
+[ 2015-08-28T18:39:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005467s ]
+
+[ 2015-08-28T18:39:02+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Order/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2015-08-28T18:39:04+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/add_view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-28T18:39:05+08:00 ] 127.0.0.1 /xdkc/admin.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+

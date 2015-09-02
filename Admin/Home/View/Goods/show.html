@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style type="text/css">
+      table{margin: 0 auto;}
+      tr td{font-size: 14px;width: 180px;text-align: center;}
+      a:link,a:visited{color:#031bce;} 
+  </style>
+  </head>
+  <body>
+          <p>所属类:
+            <select id="sec">
+              <option value ="">请选择</option>
+              <volist name="data1" id="vo0">
+                <option value ="<{$vo0.category_id}>"><{$vo0.category_name}>
+                </option>
+              </volist>
+            </select>
+          </p>
+    <table>
+    <volist name="data" id = "vo">
+        <tr>
+            <td class="first"><{$vo.goods_id}></td>
+            <td><{$vo.goods_name}></td>
+            <td><{$vo.goods_price}></td>
+            <td><a href="__ROOT__/admin.php/Home/Goods/edit_view/goods_id/<{$vo.goods_id}>">编辑</a></td>
+            <td><a href="__ROOT__/admin.php/Home/Goods/delete/goods_id/<{$vo.goods_id}>">删除</a></td>
+        <tr>
+    </volist>
+    </table>
+    <p id="haha"></p>
+    <script type="text/javascript" src="__PUBLIC__/js/zepto.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/touch.min.js"></script>
+    <script>
+        // var sec = document.getElementById("sec");
+        // sec.onchange=function(){
+        //   alert("fdskf");
+        // }
+        $("#sec").change(function(){
+          var category_id = $(this).val();
+          window.location="__ROOT__/admin.php/Home/Goods/show/category_id/"+category_id;
+        });
+    </script>
+  </body>
+</html>
