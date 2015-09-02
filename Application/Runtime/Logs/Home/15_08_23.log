@@ -1,0 +1,784 @@
+[ 2015-08-23T10:29:05+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016632s ]
+
+[ 2015-08-23T10:29:23+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2015-08-23T10:29:28+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2015-08-23T10:29:31+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2015-08-23T10:29:32+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2015-08-23T10:29:32+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2015-08-23T10:29:45+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2015-08-23T10:31:24+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:32:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:32:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2015-08-23T10:32:26+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:32:36+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2015-08-23T10:32:37+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:33:15+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002004s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:33:17+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2015-08-23T10:33:18+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:33:29+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-08-23T10:33:30+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:34:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-08-23T10:34:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2015-08-23T10:34:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:34:26+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001522s ]
+
+[ 2015-08-23T10:34:40+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-23T10:34:43+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '请输入账号' in 'where clause'
+
+[ 2015-08-23T10:36:17+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2015-08-23T10:37:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-23T10:38:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2015-08-23T10:38:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-08-23T10:38:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2015-08-23T10:38:56+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2015-08-23T10:39:55+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2015-08-23T10:40:13+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+
+[ 2015-08-23T10:40:33+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2015-08-23T10:41:13+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2015-08-23T10:41:47+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2015-08-23T10:42:00+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-08-23T10:42:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-08-23T10:43:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2015-08-23T10:44:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-08-23T10:44:19+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2015-08-23T10:48:49+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2015-08-23T10:48:57+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+
+[ 2015-08-23T10:49:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2015-08-23T10:49:08+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2015-08-23T10:49:20+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2015-08-23T10:49:31+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-08-23T10:54:39+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+
+[ 2015-08-23T10:55:00+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002239s ]
+
+[ 2015-08-23T10:55:11+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2015-08-23T10:55:26+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2015-08-23T10:57:07+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-08-23T10:57:53+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2015-08-23T10:57:59+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-08-23T10:58:01+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2015-08-23T10:58:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-08-23T10:58:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2015-08-23T10:58:50+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+
+[ 2015-08-23T10:58:54+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-23T10:58:56+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2015-08-23T10:58:59+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-08-23T10:59:01+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-08-23T10:59:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-08-23T10:59:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/order/goods_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-08-23T10:59:07+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-23T10:59:11+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssssss' in 'where clause'
+
+[ 2015-08-23T10:59:35+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2015-08-23T10:59:37+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+
+[ 2015-08-23T10:59:38+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2015-08-23T10:59:45+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-08-23T10:59:47+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2015-08-23T10:59:50+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2015-08-23T10:59:51+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/order/goods_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2015-08-23T10:59:53+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2015-08-23T10:59:57+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2015-08-23T10:59:58+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2015-08-23T11:00:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2015-08-23T11:00:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2015-08-23T11:00:12+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-08-23T11:00:15+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-08-23T11:00:17+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+
+[ 2015-08-23T11:00:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-08-23T11:01:28+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001747s ]
+
+[ 2015-08-23T11:01:30+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2015-08-23T11:01:31+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-08-23T11:01:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2015-08-23T11:02:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-08-23T11:02:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-08-23T11:02:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2015-08-23T11:02:09+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2015-08-23T11:02:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+
+[ 2015-08-23T11:02:27+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-08-23T11:02:33+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2015-08-23T11:02:39+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+
+[ 2015-08-23T11:02:41+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-08-23T11:02:50+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-23T11:05:01+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+
+[ 2015-08-23T11:05:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-08-23T11:05:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001583s ]
+
+[ 2015-08-23T11:05:08+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-08-23T11:05:24+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2015-08-23T11:05:26+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+
+[ 2015-08-23T11:05:27+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-08-23T11:05:33+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-08-23T11:07:50+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002986s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2015-08-23T11:09:28+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001521s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.$user_account." AND user_password=".$user_password )' at line 1
+
+[ 2015-08-23T11:09:30+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-23T11:09:38+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.$user_account." AND user_password=".$user_password )' at line 1
+
+[ 2015-08-23T11:10:18+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002324s ]
+
+[ 2015-08-23T11:10:20+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-23T11:10:21+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-08-23T11:10:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-08-23T11:11:28+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2015-08-23T11:11:28+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2015-08-23T11:11:32+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2015-08-23T11:11:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+
+[ 2015-08-23T11:11:35+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2015-08-23T11:12:06+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-08-23T11:12:10+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-08-23T11:12:12+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2015-08-23T11:12:23+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2015-08-23T11:12:24+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+
+[ 2015-08-23T11:12:47+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+
+[ 2015-08-23T11:12:48+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2015-08-23T11:13:24+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-08-23T11:13:27+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2015-08-23T11:15:06+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2015-08-23T11:15:16+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2015-08-23T11:16:17+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2015-08-23T11:16:19+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2015-08-23T11:16:23+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+
+[ 2015-08-23T11:16:39+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-08-23T11:16:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+
+[ 2015-08-23T11:16:44+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-23T11:16:49+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+
+[ 2015-08-23T11:16:51+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-08-23T11:16:52+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2015-08-23T11:17:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2015-08-23T11:17:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2015-08-23T11:17:43+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-08-23T11:17:45+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-08-23T11:18:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2015-08-23T11:18:04+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2015-08-23T11:18:29+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-23T11:18:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-23T14:41:25+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+
+[ 2015-08-23T14:52:00+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-23T14:52:00+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/order/goods_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2015-08-23T14:52:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/add_order/goods_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2015-08-23T14:52:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2015-08-23T14:59:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+
+[ 2015-08-23T14:59:44+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-08-23T14:59:44+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/order/goods_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-08-23T14:59:45+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Order/add_order/goods_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2015-08-23T14:59:46+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+

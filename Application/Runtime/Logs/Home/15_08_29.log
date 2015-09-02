@@ -1,0 +1,137 @@
+[ 2015-08-29T09:10:19+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+
+[ 2015-08-29T09:10:32+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-08-29T09:12:14+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+
+[ 2015-08-29T09:26:57+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:27:00+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:27:02+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:29:33+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:35:49+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:38:55+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002780s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T09:58:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:05:57+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:07:51+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:07:59+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:08:01+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:11:20+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T10:18:34+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/show?category_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+ERR: 非法操作:show
+
+[ 2015-08-29T16:43:57+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+

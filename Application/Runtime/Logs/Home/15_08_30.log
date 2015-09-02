@@ -1,0 +1,30 @@
+[ 2015-08-30T13:15:53+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+
+[ 2015-08-30T13:16:06+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2015-08-30T13:16:12+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-08-30T13:16:18+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-08-30T13:16:27+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2015-08-30T13:16:29+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+

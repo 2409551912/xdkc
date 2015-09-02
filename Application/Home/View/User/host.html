@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>小董快餐</title>
+    <link href="__PUBLIC__/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="__PUBLIC__/css/animate.css" rel="stylesheet" type="text/css"/>
+    <link href="__PUBLIC__/css/page.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="host_body">
+  <div class="host">
+      <div class="top"><p class="me">我的</p></div>
+      <volist name="user" id="vo">
+      <a class="host_message" href="__ROOT__/index.php/Home/User/user">
+          <p><{$vo.user_nickname}></p>
+          <p><{$vo.user_phone}></p>
+          <span>》</span>
+      </a>
+  </volist>
+      <a class="service" href="tel:18332537622">
+          <p>客服电话</p>
+          <span>》</span>
+      </a>
+      <div class="indent">
+          <p>我的订单</p>
+      </div>
+      <volist name="order" id="vo1">
+         <volist name="vo1['voo']" id="price">
+
+
+      <div class='indent_message'>
+          <div class='goods'>
+              <img src='__PUBLIC__/<{$price.goods_pic}>'>
+              <ul>
+                  <li><{$price.goods_name}></li>
+               
+                  <li>单价：￥<{$price.goods_price}></li>
+          
+                  <li>数量：<{$vo1.order_goods_amount}></li>
+              </ul>
+              <!-- <div class='count'>
+                  <p class='time'>
+                  <{$vo1.order_time}>
+                  </p>
+                  <p class='total'>总计：<span>￥<{$price.0}></span></p>
+                  
+              </div> -->
+              <ul class= "count">
+                  <li class="time"><{$vo1.order_time}></li>
+               
+                  <li class="total">总计：<span>￥<{$price.0}></li>
+              
+                  <li class="status">
+                    <if condition="$vo1.order_status eq 0">
+                      尚未发货
+                      <elseif condition="$vo1.order_status eq 1"/>
+                        <a href = "__ROOT__/index.php/Home/Order/status/order_id/<{$vo1.order_id}>" class="affirm">确认收货</a>
+                      <else />交易成功
+                    </if>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      </volist>
+    </volist>
+  </div>
+<script type="text/javascript" src="__PUBLIC__/js/zepto.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/touch.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/idangerous.swiper.min.js"></script>
+</body>
+</html>

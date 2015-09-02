@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>小董快餐</title>
+    <link href="__PUBLIC__/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="__PUBLIC__/css/animate.css" rel="stylesheet" type="text/css"/>
+    <link href="__PUBLIC__/css/page.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <div class="host_mes">
+        <p class="exit"><a href="__ROOT__/index.php/Home/Login/login_exit">退出登录
+        </a></p>
+        <volist name="data" id="vo">
+        <form action="__ROOT__/index.php/Home/User/mod" method="post" enctype="multipart/form-data">
+        <p class="tit">个人信息</p>
+        <div class="icon">
+        <input type="file" value="更换头像" name="icon">
+        <div style="width:80px;height:70px;">
+            <img src="__PUBLIC__/<{$vo.user_icon}>">
+        </div>
+        <p>更换头像>></p>
+        </div>
+
+        <ul>
+        <li>姓名：<input type="text" name="user_nickname" class="c_name" value="<{$vo.user_nickname}>"</li>
+        <li>联系方式：<input type="text" name="user_phone" class="c_contact" value="<{$vo.user_phone}>"></li>
+        </ul>
+            <p class="address">请填写联系地址</p>
+            <textarea rows="3" name="user_address" class="c_address"><{$vo.user_address}></textarea>
+            <input type="submit" onclick="return check();"class="sub" id="sub" value="修改">
+        </form>
+        </volist>
+    </div>
+<script type="text/javascript" src="__PUBLIC__/js/zepto.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/touch.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript">
+    var sub=document.getElementById("sub");
+    function c_null(){
+        var c_name=$(".c_name").val();
+        var c_contact=$(".c_contact").val();
+        var c_address=$(".c_address").val();
+        var c_null=[c_name,c_address,c_null];
+        for(var i=0;i<c_null.length;i++){
+            if(c_null[i]==""){
+               alert("请填写完整");
+               return false;
+            }
+        }
+        
+    }
+
+    function check(){
+        if(c_null()==false){
+        alert("请填写完整");
+    }
+}
+</script>
+
+</body>
+</html>

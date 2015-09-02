@@ -1,0 +1,95 @@
+[ 2015-08-28T10:56:25+08:00 ] 127.0.0.1 /xdkc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016763s ]
+
+[ 2015-08-28T10:56:28+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2015-08-28T10:56:48+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2015-08-28T10:56:52+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2015-08-28T10:57:03+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-08-28T10:57:11+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/judge/goods_id/1044
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2015-08-28T10:57:11+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2015-08-28T10:57:18+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Login/login_sub
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+
+[ 2015-08-28T10:57:20+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Goods/goods/category_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2015-08-28T10:57:23+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-08-28T10:57:26+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2015-08-28T10:57:35+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-08-28T10:58:05+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002248s ]
+
+[ 2015-08-28T10:58:10+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-28T10:58:15+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/host
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+
+[ 2015-08-28T10:58:16+08:00 ] 127.0.0.1 /xdkc/index.php/Home/User/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2015-08-28T10:58:19+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Post/post/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2015-08-28T10:58:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Post/reply/post_id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2015-08-28T10:58:42+08:00 ] 127.0.0.1 /xdkc/index.php/Home/Post/post/post_id/a.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
