@@ -1,0 +1,113 @@
+body{
+	color:#f00;
+	background-color: #f5ede2;
+}
+.main{
+	position: absolute;
+	left: 0%;
+	top:0%;
+	width: 100%;
+	overflow: hidden;
+}
+.main .con{
+	padding-top: 5%;
+	width: 90%;
+	margin: 0 auto;
+    text-align: center;
+}
+.main .con a{
+	text-align: left;
+}
+.main .con a{
+	display: block;
+	float: left;
+	text-decoration: none;
+	color: #4e4e4d;
+}
+.main .con a h3{
+	margin-top: 48%;
+	margin-left: 4%;
+	font-size: 1em;
+}
+.main .con a p{
+	font-size:0.8em;
+	margin-left: 4%;
+}
+.main .con .row3 h3{
+	font-size: 1em;
+}
+.main .con .row1 .a1{
+	width: 48%;
+	background-image: url(../images/index2.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat; 
+}
+.main .con .row1 .a2{
+	width: 48%;
+    background-image: url(../images/index3.jpg);
+    background-size: 100%;
+    margin-left: 4%; 
+    background-repeat: no-repeat;           
+}
+.main .con .row2 h3{
+	margin-top: 22%;
+}
+
+.main .con .row2{
+float: left;
+width: 100%;
+margin-top: 6%;
+}
+.main .con .row2 a{
+	clear: both;
+	display: block;
+	width: 100%;
+	background-image: url(../images/index4.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.main .con .row3{
+	float: left;
+	width: 100%;
+	margin-top: 7%;
+	font-size: 1em;
+}
+.main .con .row3 h3{
+	padding-top: 2%;
+	margin-top: 36%;
+}
+.main .con .row3 a{display: block;float: left;}
+.main .con .row3 .a1{
+	width: 48%;
+	background-image: url(../images/index5.jpg);
+	background-size: 100%; 
+}
+.main .con .row3 .a2{
+	width: 48%;
+    background-image: url(../images/index6.jpg);
+    background-size: 100%;
+    margin-left: 4%;            
+}
+.jry{
+	position: absolute;
+	left: 0%;
+	top:0%;
+	width: 100%;
+	height: 100%;
+	background-color: #ffe900;
+	z-index: 999;
+}
+.demo{
+	margin: 0 auto;
+	margin-top: 20%;
+	width: 45%;
+	text-align: center;
+}
+.jry .demo img{
+	width: 100%;
+}
+.jry .demo .bottom{
+	width: 30%;
+	margin: 0 auto;
+	margin-top: 30%;
+}
